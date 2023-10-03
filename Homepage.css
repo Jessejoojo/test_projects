@@ -1,0 +1,94 @@
+body{
+  margin: 0px;
+  background-color: rgb(220, 222, 224);
+  padding: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  background-color: rgb(28, 113, 197);
+  width: 60.45%;
+  height: 390px;
+  margin: 118px 0px 0px 370px;
+  display: flex;
+}
+
+.leftbox{
+  background-color: #fff;
+  width: 18%;
+  height: 390px;
+  border-radius: 4px;
+}
+
+.middlebox{
+  background-color: #fff;
+  width: 60%;
+  height: 390px;
+  margin: 0px 15px;
+  border-radius: 4px;
+}
+
+.rightbox{
+  background-color: rgb(220, 222, 224);;
+  width: 19.5%;
+  height: 390px;
+  border-radius: 4px;
+}
+
+.topr{
+  background-color: rebeccapurple;
+  width: 100%;
+  height: 190px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.bottomr{
+  background-color: rebeccapurple;
+  width: 100%;
+  height: 190px;
+  border-radius: 5px;
+
+}
+
+nav{
+  background-color: orange;
+  width: 100%;
+  height: 55px;
+  display: inline-flex;
+  
+
+}
+nav ul{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  display: inline-flex;
+  box-sizing: border-box;
+}
+nav form{
+  width: 2px;
+  
+}
+
+nav ul li{
+  width: 130px;
+  margin: 15px;
+  padding: 15px;
+}
+
+.alllist{
+  width: 60.45%;
+  height: 170px;
+  background-color: #fff;
+  margin: 18px 0px 0px 370px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.card{
+  background-color: red;
+  width: 11%;
+  height: 110px;
+  margin: 5px 0px 0px 14px;
+  border-radius: 10px;
+}
